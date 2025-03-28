@@ -12,7 +12,7 @@ interface ExtendedPreviewOptions extends PreviewOptions {
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/gabrdean/',
+  base: "/gabrdean/",
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
