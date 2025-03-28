@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gabrdean.github.io/gabrdean/",
+  "homepage": "https://gabrdean.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
