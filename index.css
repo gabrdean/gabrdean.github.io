@@ -336,6 +336,20 @@ h3 { opacity: .4;
     border-top: 1px solid #F3F4F6; /* border-t border-gray-100 */
   }
 
+  .footer-grid{
+    display: flex;
+    flex-direction: row;
+    max-width: 72rem;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+
+  .resume{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
   
   
   /* Contact heading */
@@ -343,7 +357,8 @@ h3 { opacity: .4;
   .contact-section{
   
     max-width: 72rem;
-    margin: 0 auto;
+
+
   }
   .contact-heading {
     font-size: 1.5rem; /* text-2xl */
